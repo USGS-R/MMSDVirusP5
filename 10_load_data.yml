@@ -19,6 +19,6 @@ targets:
       - sites
 
   sites:
-    command: get_sites(tracking,"sites.csv")
+    command: get_sites("sites.csv")
   
-
+  pharm_data:
