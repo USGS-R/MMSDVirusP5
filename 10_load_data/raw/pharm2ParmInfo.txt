@@ -1,0 +1,112 @@
+pharmName	pharmName2	Source_and_Use	pcode	CASRN
+"1,7-Dimethylxanthine"	Paraxanthine	"Stimulant, metabolite of caffeine"	67446	611-59-6
+10-Hydroxy-amitriptyline	NA	Degradate of amitriptyline	67995	1159-82-6
+Abacavir	Ziagen	Antiviral; reverse transcriptase inhibitor	68022	136470-78-5
+Acetaminophen	"Paracetamol, Calpol, Panadol"	"Over-the-counter analgesic, antipyretic"	67436	103-90-2
+Acyclovir	"Aciver, Cyclovir, Herpex, Zovir"	Antiviral for treatment of herpes simplex	67484	59277-89-3
+Albuterol 	"Asmol, Proventil, Salbutamol, Ventolin"	?2-adrenergic receptor agonist for asthma treatment	67437	18559-94-9
+Alprazolam	"Alprx, Anxyl, Panix, Xanax"	Benzodiazepine used to treat anxiety disorders	68250	28981-97-7
+Amitriptyline	"Elavil, Tryptizol, Laroxyl, Lentizol, Sarotex"	Tricyclic antidepressant	67522	50-48-6
+Amphetamine	"Adderall, Benzedrine, Dexedrine, Vyvanse"	Psychostimulant	67461	300-62-9
+Antipyrine	"Analgesine, auralgan, azophene, phenazone, phenazon"	"Prescription analgesic, antipyretic"	67477	60-80-0
+Atenolol	"Atenol, Esatenolol"	Beta blocker used for treatment of hypertension	67502	29122-68-7
+Atrazine	NA	Herbicide; used in this method to compare performance between compounds and between methods	65065	1912-24-9
+Benztropine	"Benzatropine, Cogentinol"	Anticholinergic used in treatment of Parkinson's disease	67997	86-13-5
+Betamethasone	"Corson, Dexamethasone"	Synthetic glucocorticoid steroid used to treat inflammatory and autoimmune conditions	67485	378-44-9
+Bupropion	"Wellbutrin, Zyban, Voxra, Budeprion"	Antidepressant and smoking cessation aid	67439	34911-55-2
+Caffeine	"1-methyltheobromine, Caffedrine, No Doz"	"Psychoactive stimulant in coffee, tea, and other preparations"	67440	58-08-2
+Carbamazepine	"Calepsin, Carbelan, Sirtal, Tegretol"	"Anticonvulsant and mood stabilizer used for epilepsy, bipolar disorder, trigeminal neuralgia"	67441	298-46-4
+Carisoprodol	"Carisoma, Sanoma, Soma"	Muscle relaxant	67498	78-44-4
+Chlorpheniramine	"Chlor-Trimeton, Chloropiril, Haynon, Hayon, Piriton"	Over-the-counter antihistamine for relief of allergy symptoms	67497	132-22-9
+Cimetidine	"Acinil, Gastromet, Tagamet"	Histamine H2-receptor antagonist that inhibits production of stomach acid	67442	51481-61-9
+Citalopram	"Celexa, Nitalapram, Lexapro"	"Selective serotonin reuptake inhibitor (SSRI) used to treat major depression, anxiety disorders "	67505	59729-33-8
+Clonidine	"Catapress, Catapressan, Duraclont"	Antihypertensive	67518	4205-90-7
+Codeine	"3-methylmorphine, Codicept"	"Opiate used as analgesic, antitussive, and antidiarrheal"	67443	76-57-3
+Cotinine	NA	Metabolite of nicotine; tobacco constituent	67444	486-56-6
+Dehydronifedipine	NA	Metabolite of the antihypertensive nifedipine	67445	67035-22-7
+Desmethyldiltiazem	"N-Monodemethyldiltiazem, N-desmethyldiltiazem"	Degradate of diltiazem	67999	86408-45-9
+Desvenlafaxine	"Norvenlafaxine, O-Desmethylvenlafaxine, Pristiq"	"Antidepressant serotonin-norepinephrine reuptake inhibitor, also major active metabolite of venlafaxine"	68251	93413-62-8
+Dextromethorphan	DXM	Cough suppressant in over-the-counter cold and cough medications	67468	125-71-3
+Diazepam	"Diacepin, Faustan, PAX, Valium"	"Benzodiazepine used to treat anxiety, insomnia, seizures "	67499	439-14-5
+Diltiazem	"Cardizem, cis-diltiazem, Dilatem, Tildiem"	"Calcium channel blocker used to treat hypertension, angina, some arrhythmias"	67519	42399-41-7
+Diphenhydramine	"Benadryl, Dimedrol, DPH"	Antihistamine	67447	58-73-1
+Duloxetine	"Ariclaim, Cymbalta, Yentreve, Xeristar"	Antidepressant; serotonin-norepinephrine reuptake inhibitor	67448	116539-59-4
+Erythromycin	"Abomacetin, Erycin, Stiemycin, Theramycin Z"	Macrolide antibiotic	67449	114-07-8
+Ezetimibe	"Ezetrol, Zetia"	Cholesterol-reducing medication	67487	163222-33-1
+Fadrozole	NA	Aromatase inhibitor used for treatment of breast cancer	68012	102676-47-1
+Famotidine	"Gaster, Gastrofam, Pepcid"	Histamine H2-receptor antagonist that inhibits production of stomach acid	68000	76824-35-6
+Fenofibrate	"Antara, Lipidil, Lofibra, Tricor"	Fibrate drug used to reduce cholesterol levels	67489	49562-28-9
+Fexofenadine	"Allegra, Telfast, Fastofen, Tilfur, Vifas, Telfexo"	Terfenadine degradate; an antihistamine used to treat allergies	67510	83799-24-0
+Fluconazole	"Diflucan, Trican, Alfumet"	Triazole antifungal	67478	86386-73-4
+Fluoxetine	"Fluoxin, Fluval, Nikomed, Prozac, Symbiax"	"Selective serotonin reuptake inhibitor (SSRI) used to treat major depression, anxiety disorders "	67450	54910-89-3
+Fluticasone propionate	"Flonase, Flovent Flixonase (as the propionate), Veramyst (as the furoate)"	Synthetic corticosteroid used to treat asthma and eosinophilic esophagitis	67529	90566-53-3
+Fluvoxamine	"Fevarin, Luvox"	"Selective serotonin reuptake inhibitor (SSRI) antidepressant used to treat depression, anxiety disorders "	67521	54739-18-3
+Glipizide	"Digrin, Glucotrol, Melizide, Minidiab, Sucrazide"	Sulfonylurea antidiabetic drug	68001	29094-61-9
+Glyburide	"Diabeta, Daonil, Glibenclamide, Glynase, Micronase"	Sulfonylurea antidiabetic drug	68002	10238-21-8
+Hydrocodone	"Bekadid, Dihydrocodeinone, Multacodin, Panacet, Vicodin"	"Semi-synthetic opioid, narcotic analgesic and antitussive"	67506	125-29-1
+Hydrocortisone	"Cortisol, Hydrocort"	Naturally-produced glucocorticoid hormone used for immunosuppressive and anti-inflammatory effects	67459	50-23-7
+Hydroxyzine	"Atarax, Equipose, Quiess, Tranquizine Vistaril"	"Antihistamine, sedative"	68005	68-88-2
+Iminostilbene	"Carbamazepine-Related Compound B, Dibenzazepine"	"Intermediate for manufacture of carbamazepine, tricyclic antidepressants, also degradate "	67481	256-96-2
+Ketoconazole	"Fungoral, Ketoisdin, Nizora, Orifungal M, Panfungol, Xolegel"	Antifungal	68014	65277-42-1
+Lamivudine	"Epivir, Epivir-HBV, Heptovir, Zeffix"	Reverse-transcriptase inhibitor used to treat Hepatitis-B	68018	134678-17-4
+Lidocaine	"lignocaine, xylocaine"	Topical anesthetic	67462	137-58-6
+Loperamide	"Dimor, Fortasec,  Imodium, Lopex"	Opioid antidiarrheal 	67515	53179-11-6
+Loratadine	"Alavert, Claritin, Flonidan"	Antihistamine	67488	79794-75-5
+Lorazepam	"Atavan, Sedazin, Temesta"	"Benzodiazepine used for its anxiolytic, amnesic, sedative/hypnotic, anticonvulsant, and muscle relaxant effects"	67470	846-49-1
+Meprobamate	"Equanil, Meprospan, Miltown, Placitate"	Carbamate derivative used as an anxiolytic	67464	57-53-4
+Metaxalone	"Skelaxin, Zorane"	Muscle relaxant	67504	1665-48-1
+Metformin	"Diabetase, Glucophage, "	Treatment of Type 2 diabetes	67492	657-24-9
+Methadone	"Amidone, Dolophine,  Heptadon, Methadose, Physeptone,  Symoron,"	Synthetic opioid used as an analgesic and to treat opioid addiction	67500	76-99-3
+Methocarbamol	"Delaxin, Forbaxin, Parabaxin, Robaxin"	Muscle relaxant	67501	532-03-6
+Methotrexate	"Amethopterin, Extexate, MTX, Rheumatrex"	Antimetabolite and antifolate drug used in treatment of cancer	67525	59-05-2
+Methyl-1H-benzotriazole	Tolyltriazole	Corrosion inhibitor; used in this method to compare performance between compounds and between methods	67514	29385-43-1
+Metoprolol	"Beatrolol, Metocard, Seroken, Spesicor, Toprol"	"Used to treat cardiovascular disease, especially hypertension"	67523	51384-51-1
+Morphine	"Dolcontin, MS Contin, MSIR, Avinza, Kadian, Oramorph, Roxanol, Kapanol"	Opiate used as analgesic	67458	57-27-2
+Nadalol	"Anabet, Corgard, Corzide, Solgol"	"Beta blocker used to reduce high blood pressure, migraine headaches, chest pain"	68006	42200-33-9
+Nevirapine	Viramune 	Antiretroviral used to treat HIV-1 infection	68017	129618-40-2
+Nicotine	NA	Alkaloid stimulant found in tobacco	67493	54-11-5
+Nizatidine	"Acinon, Bonacid, Calmaxid, Gastrax, Tazac"	Acid inhibitor used to treat ulcer and acid reflux disease	67479	76963-41-2
+Nordiazepam	"Calmday, Madar, Nordaz, Praxadium, Stilny"	Benzodiazepine drug used to treat anxiety; also active metabolite of diazepam and other benzodiazepine drugs	68252	1088-11-5
+Norethindrone	"Norethisterone, Norcept"	Oral contraceptive component	67434	68-22-4
+Norfluoxetine	NA	Active metabolite of fluoxetine	67451	83891-03-6
+Norsertraline	"Desmethylsetraline, cis-N-desmethylsertraline"	Degradate of sertraline	67532	87857-41-8
+Norverapamil	NA	Active metabolite of verapamil	68007	67018-85-3
+Omeprazole + esomeprazole3	"Esopral,  Lucen, Nexium, Prilosec, Sompraz, Zoleri"	Proton pump inhibitors used to treat dyspepsia and ulcers	67512	73590-58-6
+Orlistat	"Alli, Tetrahydrolipstatin, Xenical"	Prevents absorption of fat to treat obesity	67490	96829-58-2
+Oseltamivir	"Fluvir, Tamiflu, Tamvir"	Antiviral	67511	196618-13-0
+Oxazepam	"Alepam, Medopam, Murelax, Noripam, Opamox, Serepax, Sobril "	"Benzodiazepine used to treat anxiety, insomnia, and alcohol withdrawal"	67469	604-75-1
+Oxycodone	"Dihydrone, Oxycontin, Oxynorm, Pavinal, Remoxy"	Opiate used as analgesic and antidiarrheal; also compounded with acetaminophen or other anti-inflammatory drugs such as ibuprofen	67495	76-42-6
+Paroxetine	"Aropax, Paxil, Seroxat"	"Selective serotonin reuptake inhibitor (SSRI) antidepressant used to treat depression, obsessive-compulsive disorder, panic disorder, anxiety disorders "	67527	61869-08-7
+Penciclovir	"Denavir, Famciclovir, Vectavir "	Antiviral for treatment of herpes infections	68021	39809-25-1
+Pentoxifylline	"Oxpentifylline, Pentoxil, Trental, Vazofirin"	Cardiovascular drug that improves blood flow	67480	5-6-6493
+Phenazopyridine	"Baridium, Gastracid, Pyrazofen, Pyridiate, Urogesic, Viridium"	"Used to treat pain, irritation in urinary tract"	68008	94-78-0
+Phendimetrazine	"Antapentan, Bontril, Mephenmetrazine, Sedafamen, Wehless"	Stimulant used as an appetite suppressant	67496	634-03-7
+Phenytoin	"Aleviatin, Denyl, Dilabid, Hidantal, Lepitoin, Sodanton, Zentropil"	Antiepileptic for seizures	67466	57-41-0
+Piperonyl butoxide	"Butacide, Butocide, Butoxide"	Pesticide synergist used in lice treatment medications; also used in this method  to compare performance between compounds and between methods	67435	51-03-6
+Prednisolone	"Deltacortenol, Deltacortril, Delta-Cortef, Codelcortone, Cortalone, Meticortelone, Sterolone"	"Corticosteroid drug used for the treatment of inflammatory and autoimmune conditions, also a metabolite of prednisone"	67483	50-24-8
+Prednisone	"Ancortone, Bicortone, Colisone, Cortidelt, 
+Dacortin, Deltacortisone, Deltacortone, Ultracortene"	Synthetic corticosteroid immunosuppressant drug	67467	53-03-2
+Promethazine	"Dimapp, Diphergan, Fargan, Phenergan, Procit, Vallergine"	"Antihistamine, antiemetic, sedative"	67524	60-87-7
+Propoxyphene	"Algafan, Darvocet, Darvon, Detroprophyphene, Femadol"	Opioid analgesic used for mild pain	68009	469-62-5
+Propranolol	"Betalong, Innopran XL, Propranolol,       Proprasylyt, Reducor"	"Beta blocker used for treatment of hypertension, tremors"	67516	525-66-6
+Pseudoephedrine + ephedrine3	"Isoephedrine, Lopac E 3250,  Trans-Ephedrine, Sudafed"	"Appetite suppressant, decongestant, stimulant"	67460	"90-82-4,299-42-3"
+Quinine	Chinin	"Antimalarial, bitter flavoring agent, mild antipyretic, and analgesic"	68011	130-95-0
+Raloxifene	"Evista, Keoxafene"	Selective estrogen receptor modulator prescribed for osteoporosis	67530	84449-90-1
+Ranitidine	"Taural, Terposen, Trigger, Ulcex, Ultidine, Zantac"	Acid inhibitor used to treat ulcer and acid reflux disease	67452	66357-35-5
+Sertraline	"Lustral, Zoloft"	"SSRI antidepressant used to treat depression, obsessive-compulsive disorder, anxiety disorders "	67528	79617-96-2
+Sitagliptin	"Januvia, Xelevia"	Antihyperglycemic	67531	486460-32-6
+Sulfadimethoxine	"Abcid, Agribon, Bactrovet, Omnibon, Pesulfen, Redifal, Sulfamed D"	Sulfonamide antibiotic drug	67503	122-11-2
+Sulfamethizole	"Ayerlucil, Lucosi, Methazol, Microsul, Rufol, Sulfapyelon, Thiosulfil"	Sulfonamide antibiotic drug	67476	144-82-1
+Sulfamethoxazole	"Bactrim, Septrin, Septra, SMZ, SMX"	Sulfonamide antibiotic drug	67454	723-46-6
+Tamoxifen	"Istubal, Nolvadex, Valodex, Zemide"	Estrogen receptor agonist used in the treatment of breast cancer	68015	10540-29-1
+Temazepam	"Crisonar,  Euphynos, Gelthix, Levanxol, Remestan, Restoril, Signopam, Tenox"	Hypnotic	67471	846-50-4
+Theophylline	"Elixophyllin, 1,3-Dimethylxanthine, Nuelin, Respbid, Theocin, Uniphyl"	"Antiasthmatic, diuretic"	67494	58-55-9
+Thiabendazole	"Bioguard, Bovizole, Equizole, Lombristop, Mintezol, Omnizole, Tiabendazole"	"Parisitide, fungicide"	67455	148-79-8
+Tiotropium	"Respimat, Spiriva"	Bronchodilator used for chronic obstructive pulmonary disease	67508	186691-13-4
+Tramadol	"Ralivia, Tiparol, Tramadon, Tramal, Tramaliv, Trapidol, Ultram, Zytram"	Opiate used as analgesic	67517	27203-92-5
+Triamterene	"Ademin,  Dyrenium, Dytac, Jatropur, Noridil, Pterofen, Taturil, Urocaudal  "	Diuretic	67475	396-01-0
+Trimethoprim	"Abaprim, Bactrim, Proloprim, Monotrim, Syraprim, Trimpex, TMP "	Antibiotic used in treatment of urinary tract infections	67456	738-70-5
+Valacyclovir	"Valtrex, Zelitrex"	Antiviral for treatment of herpes infections	67507	124832-26-4
+Venlafaxine	"Effexor, Trevilor, Velafax"	Antidepressant; serotonin-norepinephrine reuptake inhibitor	67534	93413-69-5
+Verapamil	"Bosoptin, Calan, Dilacoran,  Isoptin, Vasolan, Verelan"	"Calcium channel blocker used in the treatment of hypertension, angina pectoris, cardiac arrhythmia"	67472	52-53-9
+Warfarin	"Coumadin, Jantoven, Lawarin, Marevan, Ratron,  Rodafarin,  Zoocoumarin"	"Anticoagulant, also used in rodenticides"	67457	81-81-2

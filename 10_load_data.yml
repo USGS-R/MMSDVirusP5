@@ -1,5 +1,6 @@
 target_default: 10_load_data
 
+#Define needed packages
 packages:
   - readxl
   - dplyr
@@ -9,16 +10,30 @@ packages:
   - tidyr
   - readr
 
-## All R files that are used must be listed here:
+## List R scripts used in the workflow
 sources:
   - 10_load_data/src/get_sites.R
+  - 10_load_data/src/get_dates.R
+  - 10_load_data/src/get_NWIS.R
 
+#Define targets
 targets:
   10_load_data:
     depends: 
-      - sites
+      - siteInfo
+      - parmInfo
+      - dates
 
-  sites:
-    command: get_sites("sites.csv")
+  dates:
+    command: get_dates()
+    
+  siteInfo:
+    command: get_sites("./10_load_data/raw/sites.csv")
+    
+  parmInfo:
+    command: get_parms("./10_load_data/raw/pharm2ParmInfo.txt","./10_load_data/raw/pharm2DetectionLimits.txt")
   
-  pharm_data:
+  NWIS:
+    command: get_NWIS(siteInfo,parmInfo,dates)
+  
+  

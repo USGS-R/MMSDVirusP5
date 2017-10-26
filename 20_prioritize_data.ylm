@@ -1,0 +1,21 @@
+target_default: 20_prioritize_data
+
+include:
+  - 10_load_data.yml
+
+packages:
+  - dplyr
+  - ggplot2
+- tidyr
+- readr
+- dataRetrieval
+- openxlsx
+
+sources:
+  - 20_merge_data/src/merge_data.R
+
+targets:
+  20_merge_data:
+  depends: 
+  - data/neonic.xlsx
+- chemicalSummary

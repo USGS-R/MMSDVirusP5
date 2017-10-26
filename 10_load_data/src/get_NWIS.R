@@ -1,18 +1,21 @@
-library(dataRetrieval)
-library(tidyr)
-library(dplyr)
+# Retrieve pharm samples from MMSD Phase V virus project
+# Include Underwood Creek, 16th St., and Jones Island Influent
 
-# This should include schedule 2040 (pharm2)
+# library(dataRetrieval)
+# library(tidyr)
+# library(dplyr)
 
+         
 
-get_NWIS <- function(tracking){
+#Retrieve data for selected sites and dates
+get_NWIS <- function(siteInfo,parmInfo,dates){
 
   ## define sites for data retrieval ##
-  sites <- zeroPad(unique(tracking$SiteID),8) #Use all sites in list for now
+  sites <- siteInfo$site_no #Use all sites in list for now
 
-  df <- readWQPdata(siteNumbers = c("USGS-04157000",paste0("USGS-",sites)), 
-                      startDate = '2015-10-01',
-                      endDate = '2016-09-30')
+  df <- readWQPdata(siteNumbers = paste0("USGS-",sites), 
+                      startDate = dates[1],
+                      endDate = dates[2])
 
   df$remark_cd <- ""
   df$remark_cd[grep("^Not Detected$",df$ResultDetectionConditionText)] <- "<"
@@ -32,46 +35,8 @@ get_NWIS <- function(tracking){
            NWISRecordNumber = sapply(strsplit(ActivityIdentifier,"\\."), function(x) x[3])) %>%
     select(-ActivityIdentifier, -FullsiteID)
   
-  #Saginaw!!!
-  df_sub$SiteID[df_sub$SiteID == "04157005"] <- "04157000"
 
   return(df_sub)
   
 }
 
-get_pCode_exclude <- function(path_to_exclude){
-
-  pCodes <- read.csv(path_to_exclude, header = FALSE,
-                     stringsAsFactors = FALSE)
-  return(pCodes$V1)
-}
-
-get_pCode <- function(NWIS, pCodesExclude){
-
-  pCodes <- unique(NWIS$pCode)
-  pCodeInfo <- readNWISpCode(pCodes) %>%
-    filter(!(parameter_cd %in% pCodesExclude))
-  
-  return(pCodeInfo)
-}
-
-get_AOPs <- function(){
-  path_to_tox <-  system.file("extdata", package="toxEval")
-  file_name <- "AOP_crosswalk.csv"
-  full_path <- file.path(path_to_tox, file_name)
-  
-  AOP_crosswalk <- read.csv(full_path, stringsAsFactors = FALSE)
-  
-  AOP_crosswalk <- select(AOP_crosswalk, 
-                          gene_symbol=Target.Gene.Symbol, 
-                          AOP=AOP.name)
-  
-  AOP <- data.frame(gene_symbol = unique(AOP_crosswalk$gene_symbol),
-                    AOP = "",
-                    stringsAsFactors = FALSE)
-  for(gene in AOP$gene_symbol){
-    AOP$AOP[AOP$gene_symbol %in% gene] <- paste(AOP_crosswalk$AOP[AOP_crosswalk$gene_symbol %in% gene],collapse = ", ")
-  }
-  
-  return(AOP)
-}
