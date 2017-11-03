@@ -1,0 +1,275 @@
+STAID
+DATES
+EDATE
+R72000 Remark code for 72000
+72000 Altitude, LSD ft
+R72008 Remark code for 72008
+72008 Depth, well, LSD ft
+R81024 Remark code for 81024
+81024 Drainage area mi2
+R91775 Remark code for 91775
+91775 Acetaminophen-d3, sur, f<0.2u %
+R91772 Remark code for 91772
+91772 Albuterol-d9, surrog,w,f<0.2u %
+R91784 Remark code for 91784
+91784 Amphetamine-d6, sur, w,f<0.2u %
+R91781 Remark code for 91781
+91781 Caffeine-(trimethyl-13C3),sur %
+R91786 Remark code for 91786
+91786 Codeine-d6, sur, w,gf<0.2u %
+R91783 Remark code for 91783
+91783 Cotinine-d3, surrog, w,f<0.2u %
+R91790 Remark code for 91790
+91790 Diazepam-d5, sur, w,gf<0.2u %
+R91773 Remark code for 91773
+91773 Diltiazem-d3, surrog,w,f<0.2u %
+R91788 Remark code for 91788
+91788 Diphenhydramine-d3, sur,<0.2u %
+R91789 Remark code for 91789
+91789 Fluoxetine-d6, sur, w,gf<0.2u %
+R91779 Remark code for 91779
+91779 Hydrocodone-d3, sur, w,f<0.2u %
+R90395 Remark code for 90395
+90395 Metformin-d6, IS/sur, wf %
+R91777 Remark code for 91777
+91777 Methadone-d9, surrog,w,f<0.2u %
+R91776 Remark code for 91776
+91776 Norfluoxetine-d6, sur, f<0.2u %
+R91778 Remark code for 91778
+91778 Oxycodone-d3, surrog,w,f<0.2u %
+R91787 Remark code for 91787
+91787 Pseudoephedrine-d3, sur,<0.2u %
+R91782 Remark code for 91782
+91782 Sulfamethoxazole-(phenyl13C6) %
+R91780 Remark code for 91780
+91780 Temazepam-d5, surrog,w,f<0.2u %
+R91769 Remark code for 91769
+91769 Thiabendazole-d4, sur, f<0.2u %
+R91774 Remark code for 91774
+91774 Trimethoprim-d9, sur,w,f<0.2u %
+R65065 Remark code for 65065
+65065 Atrazine, wf ng/l
+R67455 Remark code for 67455
+67455 Thiabendazole, w,f<0.2um ng/l
+R67446 Remark code for 67446
+67446 Dimethylxanthine, w,f<0.2um ng/l
+R67995 Remark code for 67995
+67995 10-Hydroxy-amitriptyline, wf ng/l
+R68022 Remark code for 68022
+68022 Abacavir, wf ng/l
+R67436 Remark code for 67436
+67436 Acetaminophen, w,f<0.2um ng/l
+R67484 Remark code for 67484
+67484 Acyclovir, w,f<0.2um ng/l
+R67437 Remark code for 67437
+67437 Albuterol, w,f<0.2um ng/l
+R68250 Remark code for 68250
+68250 Alprazolam, wf ng/l
+R67522 Remark code for 67522
+67522 Amitriptyline, w,f<0.2um ng/l
+R67461 Remark code for 67461
+67461 Amphetamine, w,f<0.2um ng/l
+R67477 Remark code for 67477
+67477 Antipyrine, w,f<0.2um ng/l
+R67502 Remark code for 67502
+67502 Atenolol, w,f<0.2um ng/l
+R67997 Remark code for 67997
+67997 Benztropine, wf ng/l
+R67485 Remark code for 67485
+67485 Betamethasone, w,f<0.2um ng/l
+R67439 Remark code for 67439
+67439 Bupropion, w,f<0.2um ng/l
+R67440 Remark code for 67440
+67440 Caffeine, w,f<0.2um ng/l
+R67441 Remark code for 67441
+67441 Carbamazepine, w,f<0.2um ng/l
+R67498 Remark code for 67498
+67498 Carisoprodol, w,f<0.2um ng/l
+R67497 Remark code for 67497
+67497 Chlorpheniramine, w,f<0.2um ng/l
+R67442 Remark code for 67442
+67442 Cimetidine, w,f<0.2um ng/l
+R67505 Remark code for 67505
+67505 Citalopram, w,f<0.2um ng/l
+R67518 Remark code for 67518
+67518 Clonidine w,f<0.2um ng/l
+R67443 Remark code for 67443
+67443 Codeine, w,f<0.2um ng/l
+R67444 Remark code for 67444
+67444 Cotinine, w,f<0.2um ng/l
+R67445 Remark code for 67445
+67445 Dehydronifedipine, w,f<0.2um ng/l
+R67999 Remark code for 67999
+67999 Desmethyldiltiazem, wf ng/l
+R68251 Remark code for 68251
+68251 Desvenlafaxine, wf ng/l
+R67468 Remark code for 67468
+67468 Dextromethorphan, w,f<0.2um ng/l
+R67499 Remark code for 67499
+67499 Diazepam, w,f<0.2um ng/l
+R67519 Remark code for 67519
+67519 Diltiazem, w,f<0.2um ng/l
+R67447 Remark code for 67447
+67447 Diphenhydramine, w,f<0.2um ng/l
+R67448 Remark code for 67448
+67448 Duloxetine, w,f<0.2um ng/l
+R67449 Remark code for 67449
+67449 Erythromycin, w,f<0.2um ng/l
+R67487 Remark code for 67487
+67487 Ezetimibe, w,f<0.2um ng/l
+R68012 Remark code for 68012
+68012 Fadrozole, wf ng/l
+R68000 Remark code for 68000
+68000 Famotidine, wf ng/l
+R67489 Remark code for 67489
+67489 Fenofibrate, w,f<0.2um ng/l
+R67510 Remark code for 67510
+67510 Fexofenadine, w,f<0.2um ng/l
+R67478 Remark code for 67478
+67478 Fluconazole, w,f<0.2um ng/l
+R67450 Remark code for 67450
+67450 Fluoxetine, w,f<0.2um ng/l
+R67529 Remark code for 67529
+67529 Fluticasonepropionate,f<0.2um ng/l
+R67521 Remark code for 67521
+67521 Fluvoxamine, w,f<0.2um ng/l
+R52817 Remark code for 52817
+52817 Gabapentin, wf ng/l
+R68001 Remark code for 68001
+68001 Glipizide, wf ng/l
+R68002 Remark code for 68002
+68002 Glyburide, wf ng/l
+R52816 Remark code for 52816
+52816 Guanylurea, wf ng/l
+R52815 Remark code for 52815
+52815 Hexamethylenetetramine, wf ng/l
+R67506 Remark code for 67506
+67506 Hydrocodone, w,f<0.2um ng/l
+R67459 Remark code for 67459
+67459 Hydrocortisone, w,f<0.2um ng/l
+R68005 Remark code for 68005
+68005 Hydroxyzine, wf ng/l
+R67481 Remark code for 67481
+67481 Iminostilbene, w,f<0.2um ng/l
+R68014 Remark code for 68014
+68014 Ketoconazole, wf ng/l
+R68018 Remark code for 68018
+68018 Lamivudine, wf ng/l
+R67462 Remark code for 67462
+67462 Lidocaine, w,f<0.2um ng/l
+R67515 Remark code for 67515
+67515 Loperamide, w,f<0.2um ng/l
+R67488 Remark code for 67488
+67488 Loratadine, w,f<0.2um ng/l
+R67470 Remark code for 67470
+67470 Lorazepam, w,f<0.2um ng/l
+R67464 Remark code for 67464
+67464 Meprobamate, w,f<0.2um ng/l
+R67504 Remark code for 67504
+67504 Metaxalone, w,f<0.2um ng/l
+R67492 Remark code for 67492
+67492 Metformin, w,f<0.2um ng/l
+R67500 Remark code for 67500
+67500 Methadone, w,f<0.2um ng/l
+R67501 Remark code for 67501
+67501 Methocarbamol, w,f<0.2um ng/l
+R67525 Remark code for 67525
+67525 Methotrexate, w,f<0.2um ng/l
+R67514 Remark code for 67514
+67514 Methylbenzotriazole, w,f<0.2u ng/l
+R67523 Remark code for 67523
+67523 Metoprolol, w,f<0.2um ng/l
+R67458 Remark code for 67458
+67458 Morphine, w,f<0.2um ng/l
+R68006 Remark code for 68006
+68006 Nadolol, wf ng/l
+R68017 Remark code for 68017
+68017 Nevirapine, wf ng/l
+R67493 Remark code for 67493
+67493 Nicotine, w,f<0.2um ng/l
+R67479 Remark code for 67479
+67479 Nizatidine, w,f<0.2um ng/l
+R68252 Remark code for 68252
+68252 Nordiazepam, wf ng/l
+R67434 Remark code for 67434
+67434 Norethindrone, w,f<0.2um ng/l
+R67451 Remark code for 67451
+67451 Norfluoxetine, w,f<0.2um ng/l
+R67532 Remark code for 67532
+67532 Norsertraline, w,f<0.2um ng/l
+R68007 Remark code for 68007
+68007 Norverapamil, wf ng/l
+R67512 Remark code for 67512
+67512 Omeprazole+Esompraz, wf<0.2um ng/l
+R67511 Remark code for 67511
+67511 Oseltamivir, w,f<0.2um ng/l
+R67469 Remark code for 67469
+67469 Oxazepam, w,f<0.2um ng/l
+R67495 Remark code for 67495
+67495 Oxycodone, w,f<0.2um ng/l
+R67527 Remark code for 67527
+67527 Paroxetine, w,f<0.2um ng/l
+R68021 Remark code for 68021
+68021 Penciclovir, wf ng/l
+R67480 Remark code for 67480
+67480 Pentoxifylline, w,f<0.2um ng/l
+R68008 Remark code for 68008
+68008 Phenazopyridine, wf ng/l
+R67496 Remark code for 67496
+67496 Phendimetrazine, w,f<0.2um ng/l
+R67466 Remark code for 67466
+67466 Phenytoin, w,f<0.2um ng/l
+R67435 Remark code for 67435
+67435 Piperonyl butoxide, w,f<0.2um ng/l
+R67483 Remark code for 67483
+67483 Prednisolone, w,f<0.2um ng/l
+R67467 Remark code for 67467
+67467 Prednisone, w,f<0.2um ng/l
+R67524 Remark code for 67524
+67524 Promethazine, w,f<0.2um ng/l
+R68009 Remark code for 68009
+68009 Propoxyphene, wf ng/l
+R67516 Remark code for 67516
+67516 Propranolol, w,f<0.2um ng/l
+R67460 Remark code for 67460
+67460 Pseudoephed+Ephedrin,wf<0.2um ng/l
+R68011 Remark code for 68011
+68011 Quinine, wf ng/l
+R52814 Remark code for 52814
+52814 Ractopamine, wf ng/l
+R67530 Remark code for 67530
+67530 Raloxifene, w,f<0.2um ng/l
+R67452 Remark code for 67452
+67452 Ranitidine, w,f<0.2um ng/l
+R67528 Remark code for 67528
+67528 Sertraline, w,f<0.2um ng/l
+R67531 Remark code for 67531
+67531 Sitagliptin, w,f<0.2um ng/l
+R67503 Remark code for 67503
+67503 Sulfadimethoxine, w,f<0.2um ng/l
+R67476 Remark code for 67476
+67476 Sulfamethizole, w,f<0.2um ng/l
+R67454 Remark code for 67454
+67454 Sulfamethoxazole, w,f<0.2um ng/l
+R68015 Remark code for 68015
+68015 Tamoxifen, wf ng/l
+R67471 Remark code for 67471
+67471 Temazepam, w,f<0.2um ng/l
+R67494 Remark code for 67494
+67494 Theophylline, w,f<0.2um ng/l
+R67508 Remark code for 67508
+67508 Tiotropium, w,f<0.2um ng/l
+R67517 Remark code for 67517
+67517 Tramadol, w,f<0.2um ng/l
+R67475 Remark code for 67475
+67475 Triamterene, w,f<0.2um ng/l
+R67456 Remark code for 67456
+67456 Trimethoprim, w,f<0.2um ng/l
+R67507 Remark code for 67507
+67507 Valacyclovir, w,f<0.2um ng/l
+R67534 Remark code for 67534
+67534 Venlafaxine, w,f<0.2um ng/l
+R67472 Remark code for 67472
+67472 Verapamil, w,f<0.2um ng/l
+R67457 Remark code for 67457
+67457 Warfarin, w,f<0.2um ng/l
