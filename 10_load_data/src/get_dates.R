@@ -1,4 +1,4 @@
-# Define dates of interest for retrieving data
+# Define dates of interest for retrieving data 
 
 get_dates <- function() {
   beginDate <- "2017-01-01"

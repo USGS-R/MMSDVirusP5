@@ -39,3 +39,4 @@ plot_occurrence <- function(NWIS,parmInfo) {
 
     unique(df$pCode)
 plotdf
+}
